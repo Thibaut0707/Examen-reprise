@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"nom": "Brontosaurus",
+		"description": "Brontosaurus (brontosaure en français) est un genre de dinosaures herbivores sauropodes de grande taille de la famille des diplodocidés. Éteint, il a vécu en Amérique du Nord au Jurassique supérieur (Kimméridgien et Tithonien) entre 156,3 et 146,8 Ma (millions d'années) environ. Ses restes fossiles ont été découverts dans les États de l'ouest et du centre des États-Unis dans la formation de Morrison. C'est un des dinosaures herbivores les plus connus du grand public.",
+		"regime": "herbivore",
+		"image": "/brontosaurus.png",
+		"image_width": 400,
+		"image_height": 226
+	},
+	{
+		"id": 2,
+		"nom": "Stegosaurus",
+		"description": "Le stégosaure, nom vernaculaire du genre éteint Stegosaurus, désigne des dinosaures herbivores caractérisés par de grandes plaques osseuses alternées en deux rangées sur leur dos, de formes et tailles différant selon les espèces. Ils ont vécu durant le Jurassique supérieur (Kimméridgien à Tithonien inférieur), il y a environ entre 155 et 150 Ma (millions d'années) sur le continent appelé Laurasie, des États-Unis jusqu'au Portugal et au Maroc actuels. Le plus ancien stégosaure trouvé provient de la région de Boulahfa au Moyen Atlas marocain, en Afrique du Nord.",
+		"regime": "herbivore",
+		"image": "/stegosaurus.png",
+		"image_width": 400,
+		"image_height": 248
+	},
+	{
+		"id": 3,
+		"nom": "Tyrannosaurus",
+		"description": "Tyrannosaurus, communément appelé tyrannosaure, est un genre éteint de dinosaures théropodes appartenant à la famille des Tyrannosauridae et ayant vécu durant la partie supérieure du Maastrichtien, dernier étage du système Crétacé, il y a environ 68 à 66 millions d'années, dans ce qui est actuellement l'Amérique du Nord. Tyrannosaurus rex, dont l'étymologie du nom signifie « roi des lézards tyrans », est l'une des plus célèbres espèces de dinosaures.",
+		"regime": "carnivore",
+		"image": "/tyrannosaurus.png",
+		"image_width": 400,
+		"image_height": 246
+	}
+]
